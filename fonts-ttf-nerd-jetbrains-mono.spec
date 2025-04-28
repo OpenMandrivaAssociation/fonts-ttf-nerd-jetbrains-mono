@@ -1,5 +1,5 @@
 Name:           fonts-ttf-nerd-jetbrains-mono
-Version:        3.3.0
+Version:        3.4.0
 Release:        1
 Summary:        A mono-space font family containing coding ligatures
 License:        OFL-1-1
